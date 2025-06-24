@@ -75,7 +75,7 @@ All analytical steps were performed in Excel:
 
 **Prem kumar Gara**
 Data Analyst & Economic Research Enthusiast
-[GitHub](https://github.com/premkumar-1122) | [LinkedIn]([https://www.linkedin.com/in/prem-kumar-gara-4aa95b132])/
+[GitHub](https://github.com/premkumar-1122) | [LinkedIn](https://www.linkedin.com/in/prem-kumar-gara-4aa95b132)
 
 ## License
 
