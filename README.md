@@ -23,11 +23,11 @@ Refer to the detailed brief in `data/India CPI Inflation Case Study Problem Stat
 2. **Year‑over‑Year Trends**: Annual urban+rural inflation rates from 2017–2022, identifying peak years and drivers.
 3. **Food Inflation Dynamics**: Month‑on‑month food inflation over the past 12 months, highlighting extremes and top sub‑category contributors.
 4. **COVID‑19 Impact**: Comparison of pre‑ and post‑March 2020 CPI changes for Food, Health, and Essential Services.
-5. **Oil Price Correlation**: Pearson correlations between imported crude oil prices and CPI categories (2021–2023).
+5. **Oil Price Correlation**: Reasoned correlations between imported crude oil prices and CPI categories (2021–2023).
 
 ## Data Description
 
-* **Analysis Workbook** (`analysis/CPI_CASE_STUDY_ANALYSIS_PREM.xlsx`): Contains Power Query transformations, pivot tables, and charts.
+* **Analysis Workbook** (`analysis/CPI_CASE_STUDY_ANALYSIS_PREM.xlsx`): Contains Cleaned data, tables, and charts.
 * **Raw CPI Data** (`data/All_India_Index_Upto_April23.csv`): Monthly CPI indices for rural and urban segments.
 * **Problem Statement** (`data/India CPI Inflation Case Study Problem Statement.docx`)
 * **Dashboard Image** (`visualizations/CPI_Dashboard.png`)
@@ -39,7 +39,7 @@ All analytical steps were performed in Excel:
 1. **Data Import & Cleaning**: Used Power Query to load CSV data, handle missing values, and standardize date fields.
 2. **Aggregation & Calculations**: Created measures for month‑on‑month and year‑on‑year inflation, and aggregated sub‑items into broader buckets.
 3. **Visualization**: Built PivotCharts and slicers to visualize contributions, trends, and correlations.
-4. **Correlation Analysis**: Calculated Pearson correlation coefficients in Excel between CPI changes and imported oil price series.
+4. **Correlation Analysis**: Calculated correlation coefficients in Excel between CPI changes and imported oil price series.
 
 ## Key Insights
 
